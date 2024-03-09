@@ -19,3 +19,11 @@ Note that labels are one hot encoded.
 This work is tested with Python 3.8.5.
 
 The requirements.txt file is automatically generated with [pipreqs](https://github.com/bndr/pipreqs).
+
+> @misc{acquire-valued-shoppers-challenge,
+>     author = {DMDave, Todd B, Will Cukierski},
+>     title = {Acquire Valued Shoppers Challenge},
+>     publisher = {Kaggle},
+>     year = {2014},
+>     url = {https://kaggle.com/competitions/acquire-valued-shoppers-challenge}
+> }
