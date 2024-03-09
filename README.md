@@ -20,16 +20,18 @@ This work is tested with Python 3.8.5.
 
 The requirements.txt file is automatically generated with [pipreqs](https://github.com/bndr/pipreqs).
 
-> @misc{acquire-valued-shoppers-challenge,
+```
+@misc{acquire-valued-shoppers-challenge,
 
->   author = {DMDave, Todd B, Will Cukierski},
+  author = {DMDave, Todd B, Will Cukierski},
 
->   title = {Acquire Valued Shoppers Challenge},
+  title = {Acquire Valued Shoppers Challenge},
 
->   publisher = {Kaggle},
+  publisher = {Kaggle},
 
->   year = {2014},
+  year = {2014},
 
->   url = {https://kaggle.com/competitions/acquire-valued-shoppers-challenge}
+  url = {https://kaggle.com/competitions/acquire-valued-shoppers-challenge}
 
-> }
+}
+```
